@@ -1,0 +1,2 @@
+This folder is used for containing
+- Data GET mean what logic is added on delete create update etc..
